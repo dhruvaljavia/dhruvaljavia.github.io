@@ -2,16 +2,16 @@
 title: Dhruval Javia
 subtitle:
 email: dhruvaljavia@gmail.com
-description: This site is under construction...<br /> Please check back later.
+description: Ingenious mechanical engineer <br /> <br /> Enthusiastic about solving global climate and energy problems <br /> through innovation and sustainability-driven outlook
 baseurl: /dhruvaljavia.github.io # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city: Stanford
+state: CA
+zip_code: 94305
+country: United States
+phone: +1 (650) 509-2107
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/dhruvaljavia
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus:
+  Instagram: https://www.instagram.com/dhruval_javia?igsh=NTc4MTIwNjQ2YQ==
+  LinkedIn: https://www.linkedin.com/in/dhruvaljavia
+  Twitter:
   Facebook:
   Slack:
 
