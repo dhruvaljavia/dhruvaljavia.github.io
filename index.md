@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Hey there! Dhruval here.
+“Simplicity is the ultimate sophistication”, said the master inventor, Leonardo da Vinci. This sums up pretty much everything in the way I see the world.
