@@ -8,4 +8,8 @@ author: null
 show_tile: false
 ---
 
-“Simplicity is the ultimate sophistication”, said the master inventor, Leonardo da Vinci. This sums up pretty much everything in the way I see the world.
+Quotes I ponder on,
+<blockquote>
+    “Simplicity is the ultimate sophistication” <br>
+    "Brevity is the soul of wit"
+</blockquote>
