@@ -2,7 +2,7 @@
 title: CAD Creations
 layout: landing
 description: 'My CAD models, made in SolidWorks'
-image: assets/CAD_models/blender_front.JPG
+image: assets/CAD_models/20241220_145924.jpg
 nav-menu: true
 ---
 
