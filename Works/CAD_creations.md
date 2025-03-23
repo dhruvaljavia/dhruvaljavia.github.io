@@ -2,7 +2,7 @@
 title: CAD Creations
 layout: landing
 description: 'My CAD models, made in SolidWorks'
-image: assets/CAD_models/20241220_145924.jpg
+image: assets/CAD_models/blender_front.jpg
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" class="spotlights">
     <section>
         <a href="CAD_model_pages/hand_blender.html" class="image">
-            <img src="{% link assets/CAD_models/blender_front.JPG %}" alt="" data-position="center center" />
+            <img src="{% link assets/CAD_models/blender_front.jpg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
