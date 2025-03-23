@@ -14,7 +14,7 @@ nav-menu: true
     <div class="inner">
         <blockquote>
             Bandish Blues <br>
-            <audio controls><source src="../assets/Audio_files/Bandish_blues.mp3" type="audio/mpeg">Error playing audio</audio>
+            <audio controls preload="none"><source src="../assets/Audio_files/Bandish_blues.mp3" type="audio/mpeg">Error playing audio</audio>
         </blockquote>
         <blockquote>
             Cymatics <br>
