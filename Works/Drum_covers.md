@@ -10,21 +10,27 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one" class="spotlights">
-    <section>
-        <a href="CAD_model_pages/hand_blender.html" class="image">
-            <img src="{% link assets/CAD_models/blender_front.jpg %}" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3>Mechanical Hand Blender</h3>
-                </header>
-                <p>3D-printable working hand blender which can be assembled in a lego-like fashion.</p>
-                <ul class="actions">
-                    <li><a href="CAD_model_pages/hand_blender.html" class="button">See more</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
+<section id="one">
+    <div class="inner">
+        <blockquote>
+            Bandish Blues <br>
+            <audio controls><source src="../assets/Audio_files/Bandish_blues.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
+        <blockquote>
+            Cymatics <br>
+            <audio controls><source src="../assets/Audio_files/Cymatics.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
+        <blockquote>
+            Entropy <br>
+            <audio controls><source src="../assets/Audio_files/Entropy.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
+        <blockquote>
+            GLBTM - studio outtake <br>
+            <audio controls><source src="../assets/Audio_files/GLBTM.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
+        <blockquote>
+            Mor Bani and Kusumbi no Rang <br>
+            <audio controls><source src="../assets/Audio_files/Mor_bani.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
+    </div>
 </section>
