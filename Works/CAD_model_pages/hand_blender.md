@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple views, 3D-printed parts and assembly
+title: Multiple views, 3D-printed parts, assembly and working demo
 description: null
 image: null
 nav-menu: false
@@ -22,3 +22,4 @@ show_tile: false
         <div class="4u"><span class="image fit"><img src="{% link assets/CAD_models/20241220_145924.jpg %}" alt="" /></span></div>
     </div>
 </div>
+<video width="240" height="320" controls><source src="../../assets/CAD_models/demo.mp4" type="video/mp4"> Error playing video </video>

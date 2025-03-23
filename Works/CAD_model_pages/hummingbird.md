@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple views
+title: Multiple views and animation
 description: null
 image: null
 nav-menu: false
@@ -15,4 +15,4 @@ show_tile: false
         <div class="4u"><span class="image fit"><img src="{% link assets/CAD_models/Hummingbird_inside_view.JPG %}" alt="" /></span></div>
     </div>
 </div>
-<a href="https://youtu.be/ru0am7XbRho?si=eFHyt77s21bEnME_" class="button special" target="_blank">Animation</a>
+<video width="320" height="240" controls><source src="../../assets/CAD_models/hummingbird.mp4" type="video/mp4"> Error playing video </video>
