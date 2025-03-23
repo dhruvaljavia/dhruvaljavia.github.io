@@ -7,7 +7,7 @@ nav-menu: false
 show_tile: false
 ---
 <ul class="actions">
-    <li><a href="/Works/CAD_creations.html" class="button">Go back</a></li>
+    <li><a href="../CAD_creations.html" class="button">Go back</a></li>
 </ul>
 <div class="box alt">
     <div class="row 50% uniform">
