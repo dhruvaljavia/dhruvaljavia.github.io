@@ -30,6 +30,7 @@ socials:
   Twitter:
   Facebook:
   Slack:
+  envelope: "mailto:dhruvaljavia@gmail.com"
 
 # build settings
 markdown: kramdown

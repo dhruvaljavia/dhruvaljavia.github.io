@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Personal and academic projects'
-image: assets/images/pic07.jpg
+image: assets/images/projects.png
 nav-menu: true
 ---
 
