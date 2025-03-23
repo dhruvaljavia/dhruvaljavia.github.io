@@ -10,7 +10,14 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one" class="spotlights">
+<section id="one">
+	<div class="inner">
+		<p>CAD files can be found here : <a href="https://grabcad.com/dhruval.javia-1" target="_blank">GrabCAD</a></p>
+	</div>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
     <section>
         <a href="CAD_model_pages/hand_blender.html" class="image">
             <img src="{% link assets/CAD_models/blender_front.jpg %}" alt="" data-position="center center" />
@@ -46,7 +53,8 @@ nav-menu: true
     </section>
 </section>
 
-<section id="two">
+<!-- Three -->
+<section id="three">
     <div class="inner">
         <header class="major">
             <h2>Miscelleneous CAD models</h2>
