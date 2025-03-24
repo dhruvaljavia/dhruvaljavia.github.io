@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" class="spotlights">
     <section>
         <a href="Project_pages/battery.html" class="image">
-            <img src="{% link assets/Project_files/Tap_temp_distri.png %}" alt="" data-position="center center" />
+            <img src="{% link assets/Project_files/Battery/Tap_temp_distri.png %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
     </section>
     <section>
         <a href="Project_pages/pack_design.html" class="image">
-            <img src="{% link assets/Project_files/sliders.JPG %}" alt="" data-position="center center" />
+            <img src="{% link assets/Project_files/Pack_design/sliders.JPG %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
