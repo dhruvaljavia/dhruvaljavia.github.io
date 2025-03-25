@@ -12,6 +12,22 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
     <section>
+        <a href="Project_pages/gas_sim.html" class="image">
+            <img src="{% link assets/Project_files/Gas_sim/collisionless_gas.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Gas Dynamics Simulator</h3>
+                </header>
+                <p>Building an ideal gas simulation in MATLAB. Its WIP, check back later!</p>
+                <ul class="actions">
+                    <li><a href="Project_pages/gas_sim.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="Project_pages/battery.html" class="image">
             <img src="{% link assets/Project_files/Battery/Tap_temp_distri.png %}" alt="" data-position="center center" />
         </a>
@@ -40,6 +56,36 @@ nav-menu: true
                 <ul class="actions">
                     <li><a href="Project_pages/pack_design.html" class="button">See more</a></li>
                 </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <a href="Project_pages/engine.html" class="image">
+            <img src="{% link assets/Project_files/Engine_analysis/inline_engine.PNG %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Balancing Aspects of Inline and V-engines</h3>
+                </header>
+                <p>Performed analysis and evaluation of unbalanced force present in inline (four cylinders) and V-6 engines in the ANSYS software</p> 
+                <ul class="actions">
+                    <li><a href="Project_pages/engine.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <img src="{% link assets/Project_files/BE_lab_project_circuit.PNG %}" alt="" data-position="center center" class="image"/>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Battery Voltage Level Indicator</h3>
+                </header>
+                <p>Designed and implemented a circuit consisting of two op-amps (IC UA741), two LEDs, two resistors and
+                two potentiometers capable of detecting two voltage levels of any battery connected to the circuit by
+                turning on the two LEDs one after another. The op-amps were configured as comparator in the circuit. The two potentiometers can be adjusted to set any desired levels of voltage to be detected <br>
+                Detailed info : <a href="../assets/Project_files/BE_lab_project_report.pdf" target="_blank">project report</a></p>
             </div>
         </div>
     </section>
