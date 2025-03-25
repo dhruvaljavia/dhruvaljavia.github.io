@@ -61,6 +61,22 @@ nav-menu: true
         </div>
     </section>
     <section>
+        <a href="Project_pages/agro_bot.html" class="image">
+            <img src="{% link assets/Project_files/Agro_bot/agrobot.JPG %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Agro Bot</h3>
+                </header>
+                <p>Conceptual robot design for agricultural activities</p> 
+                <ul class="actions">
+                    <li><a href="Project_pages/agro_bot.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="Project_pages/ar_bot.html" class="image">
             <img src="{% link assets/Project_files/AR_robot/ARbot.PNG %}" alt="" data-position="center center" />
         </a>
