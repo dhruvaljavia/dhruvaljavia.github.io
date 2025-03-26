@@ -49,7 +49,7 @@ show_tile: false
         <div class="3u 12u$(small)"><b style="font-size:22px;">Thermax Ltd.</b> <br> <em>Graduate Engineer Trainee</em></div>
         <div class="3u 12u$(small)">&nbsp;</div>
         <div class="3u 12u$(small)">&nbsp;</div>
-        <div class="3u$ 12u$(small)"><em>August 2022 - July 2024</em></div>
+        <div class="3u$ 12u$(small)">August 2022 - July 2024</div>
     </div>
     <br>
     <p style="margin:0;">
