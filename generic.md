@@ -55,10 +55,35 @@ show_tile: false
     <p style="margin:0;">
     <ul>
         <li>Gained practical experience in areas of mathematical modelling, manufacturing process, product troubleshooting, failure analysis and commissioning related to a boiler and thermic fluid heater</li> 
-        <li>Lead a team project involving standardisation of the design and techno-commercial offering of a biomass-fired thermal oil heater. Activities involved include P&ID study, grate sizing & BOP/auxiliary equipment sizing, layouting and thermal & pressure drop simulations</li>
+        <li>Collaborated in a team project involving standardisation of the design and techno-commercial offering of a biomass-fired thermal oil heater. Activities involved include P&ID study, grate sizing & BOP/auxiliary equipment sizing, layouting and thermal & pressure drop simulations</li>
     </ul>
     </p>
     </li>
 </ul>
 
 <h3><em>Things I Like To Do In Leisure Time...</em></h3>
+<div class="row">
+        <div class="4u 12u$(small)"><blockquote><b>Play Aerodrums</b> <br> I get my motivation from here : <a href="https://www.youtube.com/@DrumeoOfficial" target="_blank">Drumeo</a></blockquote></div>
+        <div class="4u 12u$(small)">
+            <blockquote>
+                <b>Watch nerdy YouTube videos</b> <br>
+                Some of my all-time favourite channels : <br>
+                <ul style="margin:0;">
+                    <li><a href="https://www.youtube.com/@smartereveryday" target="_blank">SmarterEveryDay</a></li>
+                    <li><a href="https://www.youtube.com/@kurzgesagt" target="_blank">Kurzgesagt - In a Nutshell</a></li>
+                    <li><a href="https://www.youtube.com/@StuffMadeHere" target="_blank">Stuff Made Here</a></li>
+                </ul>
+            </blockquote>
+        </div>
+        <div class="4u$ 12u$(small)">
+            <blockquote>
+                <b>Play PC games</b> <br>
+                Games I have been recently playing : <br>
+                <ul style="margin:0;">
+                    <li><a href="https://www.nomanssky.com/" target="_blank">No Man's Sky</a></li>
+                    <li><a href="https://store.steampowered.com/app/220200/Kerbal_Space_Program/" target="_blank">Kerbal Space Program</a></li>
+                </ul>
+            </blockquote>
+        </div>
+</div>
+
