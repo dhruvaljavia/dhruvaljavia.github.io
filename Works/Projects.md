@@ -28,6 +28,22 @@ nav-menu: true
         </div>
     </section>
     <section>
+        <a href="Project_pages/thermal_calcs.html" class="image">
+            <img src="{% link assets/Project_files/Thermal_calcs/film_temp.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Heat Exchanger Calculators</h3>
+                </header>
+                <p>A variety of EXCEL-based calculators for evaluating important process parameters. Used built-in GRG nonlinear solver and VBA for automated computations.</p>
+                <ul class="actions">
+                    <li><a href="Project_pages/thermal_calcs.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="Project_pages/battery.html" class="image">
             <img src="{% link assets/Project_files/Battery/Tap_temp_distri.png %}" alt="" data-position="center center" />
         </a>
