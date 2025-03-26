@@ -38,7 +38,7 @@ show_tile: false
         <div class="4u"><span class="image fit"><img src="{% link assets/Project_files/Balance_bot/final_bot_design.jpg %}" alt="" /></span></div>
         <div class="4u$"><span class="image fit"><img src="{% link assets/Project_files/Balance_bot/BP_1452_Arena.png %}" alt="" /></span></div>
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{% link assets/Project_files/Balance_bot/IMG_20200204_001405.jpg %}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{% link assets/Project_files/Balance_bot/IMG_20201130_175530.jpg %}" alt="" /></span></div>
     </div>
 </div>
 <video width="320" height="240" controls preload="none"><source src="../../assets/Project_files/Balance_bot/testing.mp4" type="video/mp4"> Error playing video </video>
