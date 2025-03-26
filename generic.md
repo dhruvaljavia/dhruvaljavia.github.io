@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bio-Data
-description: Know more about my past, present and future
-image: assets/images/pic11.jpg
+title: My past, present and future
+description: null
+image: null
 nav-menu: true
 show_tile: false
 ---

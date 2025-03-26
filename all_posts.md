@@ -1,9 +1,9 @@
 ---
 layout: allposts
-title: Thoughts and Musings
+title: Breakthrough Technologies
 landing-title: null
 nav-menu: true
-description: 'My reflections on intriguing topics'
+description: 'A collection of intriguing concepts'
 image: assets/images/pic01.jpg
 author: null
 show_tile: true
