@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MATLAB simulation video of a collisionless gas
+title: MATLAB simulation video of a collisionless mono-atomic gas
 description: null
 image: null
 nav-menu: false

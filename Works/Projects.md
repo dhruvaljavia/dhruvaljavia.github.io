@@ -29,7 +29,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Efficient Battery Thermal Management Systems for EV</h3>
                 </header>
-                <p><em>Final year B. Tech. thesis project</em></p>
+                <p><em>Final year B. Tech. thesis project <br> <b>Advisor:</b> Dr. B. R. Pattabhi</em></p>
                 <ul>
                     <li>The project was aimed at improving the effectiveness of the battery thermal management system by reducing the cell capacity degradation caused due to temperature effects.</li>
                     <li>Link to the published paper : <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/est2.458" target="_blank">Design of lithium-ion battery packs for two-wheeled electric vehicles</a></li>
@@ -49,9 +49,10 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Macro-scale Design Aspects of EV Battery Pack</h3>
                 </header>
-                <p><em>Summer research internship project</em></p>
+                <p><em>Summer research internship project <br> <b>Advisors:</b> Dr. Sundararajan Natarajan and Dr. B. R. Pattabhi</em></p>
                 <ul>
                     <li>Performed preliminary battery pack design calculations by initially developing a system of equations in EXCEL and later implementing it in a MATLAB app for a better GUI experience.</li>
+                    <li>MATLAB source code : <a href="https://github.com/dhruvaljavia/EV_calculator" target="_blank">GitHub Repository</a></li>
                 </ul>
                 <ul class="actions">
                     <li><a href="Project_pages/pack_design.html" class="button">See more</a></li>
@@ -148,10 +149,13 @@ nav-menu: true
         </a>
         <div class="content">
             <div class="inner">
-                <header class="major">
+                <header class="major" style="margin:0;">
                     <h3>Gas Dynamics Simulator</h3>
                 </header>
-                <p>Building an ideal gas simulation in MATLAB. Its WIP, check back later!</p>
+                <p><em>Personal hobby project</em></p>
+                <ul>
+                    <li>Building an ideal gas simulation in MATLAB. [It's WIP, check back later!]</li>
+                </ul>
                 <ul class="actions">
                     <li><a href="Project_pages/gas_sim.html" class="button">See more</a></li>
                 </ul>
@@ -164,11 +168,15 @@ nav-menu: true
         </a>
         <div class="content">
             <div class="inner">
-                <header class="major">
+                <header class="major" style="margin:0;">
                     <h3>Two-wheeled Self Balancing Robot</h3>
                 </header>
-                <p>Being one of the four members of the team involved in the project; developed the mechanical design of the robot and modelled it in SolidWorks software, evaluated system parameters such as principal moment of inertia and located the COG of the system in SolidWorks. Contributed in writing codes for simulating the system in Octave and helped in deriving state space equations for the system. <br> 
-                Source code : <a href="https://github.com/RajShah-1/Balance-Bot" target="_blank">GitHub Repository</a></p> 
+                <p><em>Team project - E-yantra robotics competition(eYRC 2019-2020), IIT Bombay</em></p>
+                <ul>
+                    <li>Developed the mechanical design of the robot and modelled it in SolidWorks software, evaluated system parameters such as principal moment of inertia and COG.</li>
+                    <li>Contributed in writing codes for simulating the system in Octave and helped in deriving state space equations for the system.</li>
+                    <li>Source code : <a href="https://github.com/RajShah-1/Balance-Bot" target="_blank">GitHub Repository</a></li>
+                </ul> 
                 <ul class="actions">
                     <li><a href="Project_pages/balance_bot.html" class="button">See more</a></li>
                 </ul>
@@ -181,10 +189,15 @@ nav-menu: true
         </a>
         <div class="content">
             <div class="inner">
-                <header class="major">
+                <header class="major" style="margin:0;">
                     <h3>Agro Bot</h3>
                 </header>
-                <p>Conceptual robot design for agricultural activities</p> 
+                <p><em>Team project - AgroBot Design Innovation Challenge - Inter IIT Tech Meet'21, IIT Guwahati</em></p>
+                <ul>
+                    <li>A conceptual robot designed to tackle common farming challenges through automation.</li>
+                    <li>Weed removal and seed metering for uneven or irregular seeds are the two major issues addressed by the robot's design.</li>
+                    <li>See project details here : <a href="../assets/Project_files/Agro_bot/report.pdf" target="_blank">report</a></li>
+                </ul> 
                 <ul class="actions">
                     <li><a href="Project_pages/agro_bot.html" class="button">See more</a></li>
                 </ul>
@@ -192,17 +205,22 @@ nav-menu: true
         </div>
     </section>
     <section>
-        <a href="Project_pages/ar_bot.html" class="image">
-            <img src="{% link assets/Project_files/AR_robot/ARbot.PNG %}" alt="" data-position="center center" />
+        <a href="Project_pages/vr_bot.html" class="image">
+            <img src="{% link assets/Project_files/VR_robot/VRbot.PNG %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
-                <header class="major">
-                    <h3>AR Robot</h3>
+                <header class="major" style="margin:0;">
+                    <h3>VR Robot</h3>
                 </header>
-                <p>Made a virtual robot in Unity3D controlled by ultrosonic sensor interfaced with Arduino Uno and keyboard keys</p> 
+                <p><em>Personal hobby project</em></p>
+                <ul>
+                    <li>Made a virtual robot in Unity3D, controlled by ultrosonic sensor interfaced with Arduino Uno and keyboard keys.</li>
+                    <li>Can be further connected to an actual physical robotic arm for teleoperation.</li>
+                    <li>Source code : <a href="https://github.com/dhruvaljavia/VR_robotic_arm" target="_blank">GitHub Repository</a></li>
+                </ul> 
                 <ul class="actions">
-                    <li><a href="Project_pages/ar_bot.html" class="button">See more</a></li>
+                    <li><a href="Project_pages/vr_bot.html" class="button">See more</a></li>
                 </ul>
             </div>
         </div>
