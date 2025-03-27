@@ -21,25 +21,6 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
     <section>
-        <a href="Project_pages/pack_design.html" class="image">
-            <img src="{% link assets/Project_files/Pack_design/sliders.JPG %}" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <header class="major" style="margin:0;">
-                    <h3>Macro-scale Design Aspects of EV Battery Pack</h3>
-                </header>
-                <p><em>Summer research internship project</em></p>
-                <ul>
-                    <li>Performed preliminary battery pack design calculations by initially developing a system of equations in EXCEL and later implementing it in a MATLAB app for a better GUI experience.</li>
-                </ul>
-                <ul class="actions">
-                    <li><a href="Project_pages/pack_design.html" class="button">See more</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <section>
         <a href="Project_pages/battery.html" class="image">
             <img src="{% link assets/Project_files/Battery/Tap_temp_distri.png %}" alt="" data-position="center center" />
         </a>
@@ -55,6 +36,25 @@ nav-menu: true
                 </ul>
                 <ul class="actions">
                     <li><a href="Project_pages/battery.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <a href="Project_pages/pack_design.html" class="image">
+            <img src="{% link assets/Project_files/Pack_design/sliders.JPG %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major" style="margin:0;">
+                    <h3>Macro-scale Design Aspects of EV Battery Pack</h3>
+                </header>
+                <p><em>Summer research internship project</em></p>
+                <ul>
+                    <li>Performed preliminary battery pack design calculations by initially developing a system of equations in EXCEL and later implementing it in a MATLAB app for a better GUI experience.</li>
+                </ul>
+                <ul class="actions">
+                    <li><a href="Project_pages/pack_design.html" class="button">See more</a></li>
                 </ul>
             </div>
         </div>
@@ -115,10 +115,14 @@ nav-menu: true
         </a>
         <div class="content">
             <div class="inner">
-                <header class="major">
+                <header class="major" style="margin:0;">
                     <h3>Heat Exchanger Calculators</h3>
                 </header>
-                <p>A variety of EXCEL-based calculators for evaluating important process parameters. Used built-in GRG nonlinear solver and VBA for automated computations.</p>
+                <p><em>Innovation Department - Heating - Thermax Ltd.</em></p>
+                <ul>
+                    <li>A variety of EXCEL-based calculators for evaluating important process parameters.</li>
+                    <li>Used built-in GRG nonlinear solver and VBA for automated computations.</li>
+                </ul>
                 <ul class="actions">
                     <li><a href="Project_pages/thermal_calcs.html" class="button">See more</a></li>
                 </ul>
