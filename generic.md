@@ -22,7 +22,7 @@ show_tile: false
 			<tr>
 				<td>Ryan International School (ISC board)</td>
 				<td>Surat, Gujarat, India</td>
-				<td>High School</td>
+				<td>Elementary to High School</td>
                 <td>2007 - 2018</td>
 			</tr>
 			<tr>
@@ -55,7 +55,7 @@ show_tile: false
     <p style="margin:0;">
     <ul>
         <li>Gained practical experience in areas of mathematical modelling, manufacturing process, product troubleshooting, failure analysis and commissioning related to a boiler and thermic fluid heater</li> 
-        <li>Collaborated in a team project involving standardisation of the design and techno-commercial offering of a biomass-fired thermal oil heater. Activities involved include P&ID study, grate sizing & BOP/auxiliary equipment sizing, layouting and thermal & pressure drop simulations</li>
+        <li>Collaborated in a team project involving standardisation of the design and techno-commercial offering of a biomass-fired thermal oil heater. Activities involved include P&ID study, grate sizing & BOP/auxiliary equipment sizing, layouting and thermal & pressure drop simulations.</li>
     </ul>
     </p>
     </li>

@@ -1,7 +1,7 @@
 ---
 title: CAD Creations
 layout: landing
-description: 'My CAD models, made in SolidWorks'
+description: '3D models, made using SolidWorks'
 image: assets/CAD_models/blender_front.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>CAD files can be found here : <a href="https://grabcad.com/dhruval.javia-1" target="_blank">GrabCAD</a></p>
+		<p>Many of the CAD files can be found here : <a href="https://grabcad.com/dhruval.javia-1" target="_blank">GrabCAD</a></p>
 	</div>
 </section>
 
@@ -27,7 +27,12 @@ nav-menu: true
                 <header class="major">
                     <h3>Mechanical Hand Blender</h3>
                 </header>
-                <p>3D-printable working hand blender which can be assembled in a lego-like fashion.</p>
+                <p>
+                    <ul>
+                        <li>A 3D-printable, fully functional 2-in-1 mechanical hand blender and egg beater, designed for easy assembly with a simple interlocking mechanism.</li>
+                        <li>Designed for the <b><a href="https://grabcad.com/challenges/grabcad-shop-challenge/" target="_blank">GrabCAD shop challenge (2020)</a></b>, achieved 5<sup>th</sup> place.</li>
+                    </ul>
+                </p>
                 <ul class="actions">
                     <li><a href="CAD_model_pages/hand_blender.html" class="button">See more</a></li>
                 </ul>
@@ -43,8 +48,12 @@ nav-menu: true
                 <header class="major">
                     <h3>Hummingbird Mechanism</h3>
                 </header>
-                <p>Mechanical hummingbird involving a six bar mechanism. <br> 
-                Source of mechanism : <a href="https://www.youtube.com/watch?v=_-UHIgegWWw&t=15s" target="_blank">Hummingbird Spatial Six-bar</a></p>
+                <p>
+                    <ul>
+                        <li>Mechanical hummingbird involving a six bar mechanism.</li>
+                        <li>Source of mechanism : <a href="https://www.youtube.com/watch?v=_-UHIgegWWw&t=15s" target="_blank">Hummingbird Spatial Six-bar</a></li>
+                    </ul>
+                </p>
                 <ul class="actions">
                     <li><a href="CAD_model_pages/hummingbird.html" class="button">See more</a></li>
                 </ul>
@@ -92,5 +101,9 @@ nav-menu: true
                 <div class="4u"><span class="image fit"><img src="{% link assets/CAD_models/UNO_enclosure.JPG %}" alt="" /></span></div>
             </div>
         </div>
+        <br>
+        <ul class="actions">
+            <li><a href="/dhruvaljavia.github.io/" class="button">Go back</a></li>
+        </ul>
     </div>
 </section>

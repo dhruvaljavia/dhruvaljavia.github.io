@@ -39,5 +39,9 @@ nav-menu: true
             <b>Mor Bani & Kasumbi no Rang</b> - a beautiful Gujarati folklore fusion song from the album "Folk Rang", by Meghdhanush band<br>
             <audio controls preload="none"><source src="../assets/Audio_files/Mor_bani.mp3" type="audio/mpeg">Error playing audio</audio>
         </blockquote>
+        <br>
+        <ul class="actions">
+            <li><a href="/dhruvaljavia.github.io/" class="button">Go back</a></li>
+        </ul>
     </div>
 </section>
