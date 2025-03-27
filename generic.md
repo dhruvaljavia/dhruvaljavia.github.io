@@ -64,9 +64,9 @@ show_tile: false
 <h3><em>Student Groups Which I Have Been A Part Of...</em></h3>
 <h4> At IIT Bhubaneswar -</h4>
 <div class="row">
-        <div class="4u 12u$(small)"><blockquote><b>Aaroh</b> <br> The music society</blockquote></div>
-        <div class="4u 12u$(small)"><blockquote><b>RISC</b> <br>Robotics and Intelligent Systems Club</blockquote></div>
-        <div class="4u$ 12u$(small)"><blockquote><b>Wissenaire - event management team</b> <br>The annual techno-management fest</blockquote></div>
+        <div class="4u 12u$(small)"><blockquote><b><a href="https://www.instagram.com/aaroh.iitbbs/" target="_blank">Aaroh</a></b> <br> The music society</blockquote></div>
+        <div class="4u 12u$(small)"><blockquote><b><a href="https://github.com/RISC-IITBBS" target="_blank">RISC</a></b> <br>Robotics and Intelligent Systems Club</blockquote></div>
+        <div class="4u$ 12u$(small)"><blockquote><b><a href="https://www.instagram.com/wissenaire.iitbbs/?hl=en" target="_blank">Wissenaire</a> - event management team</b> <br>The annual techno-management fest</blockquote></div>
 </div>
 <br>
 
