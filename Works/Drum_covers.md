@@ -12,7 +12,10 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>See the music visualizers here : <a href="https://www.youtube.com/playlist?list=PLFWiL9qJKeE7pWwnyePG1QYEJDBJsZl5j" target="_blank">YouTube playlist</a></p>
+		<ul>
+            <li>See the music visualizers here : <a href="https://www.youtube.com/playlist?list=PLFWiL9qJKeE7pWwnyePG1QYEJDBJsZl5j" target="_blank">YouTube playlist</a></li>
+            <li>Drumming done on <a href="https://aerodrums.com/" target="_blank">Aerodrums</a>, visualizations created using <a href="https://specterr.com/" target="_blank">Specterr</a></li>
+        </ul>
 	</div>
 </section>
 
