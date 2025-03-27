@@ -61,6 +61,15 @@ show_tile: false
     </li>
 </ul>
 
+<h3><em>Student Groups Which I Have Been A Part Of...</em></h3>
+<h4> At IIT Bhubaneswar -</h4>
+<div class="row">
+        <div class="4u 12u$(small)"><blockquote><b>Aaroh</b> <br> The music society</blockquote></div>
+        <div class="4u 12u$(small)"><blockquote><b>RISC</b> <br>Robotics and Intelligent Systems Club</blockquote></div>
+        <div class="4u$ 12u$(small)"><blockquote><b>Wissenaire - event management team</b> <br>The annual techno-management fest</blockquote></div>
+</div>
+<br>
+
 <h3><em>Things I Like To Do In Leisure Time...</em></h3>
 <div class="row">
         <div class="4u 12u$(small)"><blockquote><b>Play Aerodrums</b> <br> I get my motivation from here : <a href="https://www.youtube.com/@DrumeoOfficial" target="_blank">Drumeo</a></blockquote></div>
