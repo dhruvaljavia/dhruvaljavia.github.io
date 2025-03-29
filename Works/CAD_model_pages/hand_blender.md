@@ -20,7 +20,17 @@ show_tile: false
         <div class="4u"><span class="image fit"><img src="{% link assets/CAD_models/20241220_145924.jpg %}" alt="" /></span></div>
     </div>
 </div>
-<video width="240" height="320" controls preload="none"><source src="../../assets/CAD_models/demo.mp4" type="video/mp4"> Error playing video </video>
+
+<div class="inner">
+    <div class="row">
+        <div class="4u 12u$(medium)">
+            <video width="350" height="300" controls preload="none"><source src="../../assets/CAD_models/blender_assembling.mp4" type="video/mp4"> Error playing video </video>
+        </div>
+        <div class="4u 12u$(medium)">
+            <video width="240" height="320" controls preload="none"><source src="../../assets/CAD_models/demo.mp4" type="video/mp4"> Error playing video </video>
+        </div>
+    </div>
+</div>
 <br>
 <ul class="actions">
     <li><a href="../CAD_creations.html" class="button">Go back</a></li>
