@@ -19,6 +19,27 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
     <section>
+        <a href="CAD_model_pages/aerocase_CAD.html" class="image">
+            <img src="{% link assets/CAD_models/aerocase_iso.JPG %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Aerocase</h3>
+                </header>
+                <p>
+                    <ul>
+                        <li>A compact, innovative, and functional instrument case that ensures the safe storage of Aerodrum instruments while reflecting the aesthetic essence of music.</li>
+                        <li>Designed and fabricated as a part of ME 203 : Design and Manufacturing coursework at Stanford University</li>
+                    </ul>
+                </p>
+                <ul class="actions">
+                    <li><a href="CAD_model_pages/aerocase_CAD.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="CAD_model_pages/hand_blender.html" class="image">
             <img src="{% link assets/CAD_models/blender_front.jpg %}" alt="" data-position="center center" />
         </a>

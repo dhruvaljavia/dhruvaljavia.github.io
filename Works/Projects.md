@@ -21,6 +21,26 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
     <section>
+        <a href="Project_pages/aerocase.html" class="image">
+            <img src="{% link assets/Project_files/Aerocase/Aerocase_heroshot.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major" style="margin:0;">
+                    <h3>Aerocase</h3>
+                </header>
+                <p><em>Individual Course Project <br> <b>ME 203 : Design and Manufacturing</b></em></p>
+                <ul>
+                    <li>Designed and fabricated a compact, innovative, and functional instrument case that ensures the safe storage of Aerodrum instruments while reflecting the aesthetic essence of music.</li>
+                    <li>Made using Al 5052 aluminum sheet, A356 cast aluminum, common pine lumber, Duron hardboard and polyurethane foam. Major processes include sheet metal bending, TIG welding, sand casting, wood working, laser cutting and 3D printing</li>
+                </ul>
+                <ul class="actions">
+                    <li><a href="Project_pages/aerocase.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="Project_pages/battery.html" class="image">
             <img src="{% link assets/Project_files/Battery/Tap_temp_distri.png %}" alt="" data-position="center center" />
         </a>
