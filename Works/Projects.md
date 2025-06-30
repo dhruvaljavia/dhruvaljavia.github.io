@@ -165,7 +165,7 @@ nav-menu: true
 <section id="six" class="spotlights">
     <section>
         <a href="Project_pages/gas_sim.html" class="image">
-            <img src="{% link assets/Project_files/Gas_sim/collisionless_gas.png %}" alt="" data-position="center center" />
+            <img src="{% link assets/Project_files/Gas_sim/two_gas_mix.png %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
