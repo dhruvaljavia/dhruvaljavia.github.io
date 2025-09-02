@@ -176,6 +176,7 @@ nav-menu: true
                 <ul>
                     <li>Built a MATLAB-based simulator for particle dynamics and association chemical reactions in an ideal gas, implementing hash grid optimization to reduce collision detection algorithm complexity.</li>
                     <li>Developed an interactive MATLAB app with numeric and GUI-based input to improve user experience, providing time-series plots and animation as post-processing outputs for analysis.</li>
+                    <li>MATLAB source code : <a href="https://github.com/dhruvaljavia/Gas-Dynamics-Simulator" target="_blank">GitHub Repository</a></li>
                 </ul>
                 <ul class="actions">
                     <li><a href="Project_pages/gas_sim.html" class="button">See more</a></li>

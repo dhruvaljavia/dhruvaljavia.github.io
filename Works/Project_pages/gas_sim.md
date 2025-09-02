@@ -21,11 +21,28 @@ show_tile: false
     <h4><u>Free expansion of an ideal gas in a vacuum chamber</u></h4>
     <div class="sp-embed-player" data-id="cTQnlanoiqk"><script src="https://go.screenpal.com/player/appearance/cTQnlanoiqk"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnlanoiqk?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
     <br>
-    <h5><em>Plot of pressure exerted on top wall and particle speed distribution at end time</em></h5>
     <div class="row 50% uniform">
         <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/top_wall_press_plot.png %}" alt="" /></span></div>
         <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/particle_speed_distribution.png %}" alt="" /></span></div>
     </div>
+    <hr>
+    <h4><u>Free expansion of an ideal gas through a hole</u></h4>
+    <div class="sp-embed-player" data-id="cTQnIfnoiO6"><script src="https://go.screenpal.com/player/appearance/cTQnIfnoiO6"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnIfnoiO6?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
+    <br>
+    <div class="row 50% uniform">
+        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/pressure_EXP2.png %}" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/conc_EXP2.png %}" alt="" /></span></div>
+    </div>
+    <hr>
+    <h4><u>Chemical reaction of nascent oxygen atoms at 298 K</u></h4>
+    <div class="sp-embed-player" data-id="cTQnIbnoiUB"><script src="https://go.screenpal.com/player/appearance/cTQnIbnoiUB"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnIbnoiUB?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
+    <br>
+    <div class="row 50% uniform">
+        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/species_history.png %}" alt="" /></span></div>
+    </div>
+    <hr>
+    <h4><u>Bluff body flow of an ideal gas</u></h4>
+    <div class="sp-embed-player" data-id="cTQnITnoiwp"><script src="https://go.screenpal.com/player/appearance/cTQnITnoiwp"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnITnoiwp?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
 </div>
 <br>
 <ul class="actions">
