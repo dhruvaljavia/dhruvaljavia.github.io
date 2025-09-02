@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demo video and interesting results
+title: Simulator details, demo video and interesting results
 description: null
 image: null
 nav-menu: false
@@ -9,7 +9,11 @@ show_tile: false
 
 <div class="box">
     <h3>Simulator MATLAB app demonstration</h3>
-    <video width="800" height="500" controls preload="none"><source src="../../assets/Project_files/Gas_sim/Sim_demo.mp4" type="video/mp4"> Error playing video </video>
+    <h5>Particle-in-box gas dynamics</h5>
+    <div class="sp-embed-player" data-id="cTQnhsnohWC"><script src="https://go.screenpal.com/player/appearance/cTQnhsnohWC"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnhsnohWC?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
+    <br>
+    <h5>Gas flow dynamics</h5>
+    <div class="sp-embed-player" data-id="cTQn1Hno1Qa"><script src="https://go.screenpal.com/player/appearance/cTQn1Hno1Qa"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQn1Hno1Qa?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
 </div>
 
 <div class="box">
