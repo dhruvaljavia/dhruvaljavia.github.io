@@ -16,7 +16,6 @@ show_tile: false
         <li>Independently tackle a particle dynamics problem from first principles by using the knowledge of basic collision physics, vector algebra and MATLAB scripting</li>
         <li>Validate various laws and theoretical results of physics such as ideal gas law and Boltzmann speed distribution using fundamental collision dynamics of gas particles</li>
     </ul>
-    <br>
     <h4><u>Key features of the simulation program</u></h4>
     <ul>
         <li>Accurate elastic collision physics simulation of inter-particle and particle-wall collisions</li>
@@ -26,13 +25,20 @@ show_tile: false
         <li>Intuitive and user-friendly graphical input for specifying the location of initial particle region and walls</li>
         <li>Animation video and plot image saving features</li>
     </ul>
-    <br>
     <h4><u>Performance comparison of hash grid based and brute force collision checking algorithms</u></h4>
-    <br>
+    <div class="row 50% uniform">
+        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/algo_perf_1.PNG %}" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/algo_perf_2.PNG %}" alt="" /></span></div>
+    </div>
+    <ol>
+        <li>These simulations are done considering a particle diameter of 2 Angstrom in a 120x120 Angstrom box with an initial speed of 0.5 Angstrom/fs. Total time taken is 1000 fs with a timestep of 1 fs.</li>
+        <li>Consider an uncertainity of +/- 1 sec. in the simulation time observation values</li>
+    </ol>
     <h4><u>Future planned updates</u></h4>
     <ul>
         <li>Add inter-particle interation via Lennard-Jones potential to simulate real gas</li>
         <li>Extend the dimensions from 2-D to 3-D</li>
+        <li>Translate MATLAB code to GNU Octave equivalent code for open and easy access to all</li>
         <li>Add progress bar and animation video re-play features in the GUI</li>
     </ul>
 </div>
