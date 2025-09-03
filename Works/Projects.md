@@ -172,7 +172,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Gas Dynamics Simulator</h3>
                 </header>
-                <p><em>Individual personal project</em></p>
+                <p><em>Individual personal summer project</em></p>
                 <ul>
                     <li>Built a MATLAB-based simulator for particle dynamics and association chemical reactions in an ideal gas, implementing hash grid optimization to reduce collision detection algorithm complexity.</li>
                     <li>Developed an interactive MATLAB app with numeric and GUI-based input to improve user experience, providing time-series plots and animation as post-processing outputs for analysis.</li>

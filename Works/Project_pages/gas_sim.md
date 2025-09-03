@@ -8,6 +8,36 @@ show_tile: false
 ---
 
 <div class="box">
+    <h3>Simulation Program Details</h3>
+    <h4><u>Project Motivation</u></h4>
+    <ul>
+        <li>Develope a comprehensive and an optimized 2-D gas simulation program involving fluid dynamics and chemical reactivity simulation capabilities</li>
+        <li>Provide a user-friendly testbed to easily experiment with different scenarios</li>
+        <li>Independently tackle a particle dynamics problem from first principles by using the knowledge of basic collision physics, vector algebra and MATLAB scripting</li>
+        <li>Validate various laws and theoretical results of physics such as ideal gas law and Boltzmann speed distribution using fundamental collision dynamics of gas particles</li>
+    </ul>
+    <br>
+    <h4><u>Key features of the simulation program</u></h4>
+    <ul>
+        <li>Accurate elastic collision physics simulation of inter-particle and particle-wall collisions</li>
+        <li>Capable of simulating the effects of gravity, heat transfer and inter/intra-species associative chemical reactions for an isolated gas system</li>
+        <li>Hash grid optimization implementation for reduced number of collision checks and low simulation times</li>
+        <li>Region probing capability together with a wide range of post-processed output for better analysis and validation of results</li>
+        <li>Intuitive and user-friendly graphical input for specifying the location of initial particle region and walls</li>
+        <li>Animation video and plot image saving features</li>
+    </ul>
+    <br>
+    <h4><u>Performance comparison of hash grid based and brute force collision checking algorithms</u></h4>
+    <br>
+    <h4><u>Future planned updates</u></h4>
+    <ul>
+        <li>Add inter-particle interation via Lennard-Jones potential to simulate real gas</li>
+        <li>Extend the dimensions from 2-D to 3-D</li>
+        <li>Add progress bar and animation video re-play features in the GUI</li>
+    </ul>
+</div>
+
+<div class="box">
     <h3>Simulator MATLAB app demonstration</h3>
     <h5>Particle-in-box gas dynamics</h5>
     <div class="sp-embed-player" data-id="cTQnhsnohWC"><script src="https://go.screenpal.com/player/appearance/cTQnhsnohWC"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnhsnohWC?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
