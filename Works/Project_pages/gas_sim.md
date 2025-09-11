@@ -77,6 +77,9 @@ show_tile: false
         <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/Gas_sim/species_history.png %}" alt="" /></span></div>
     </div>
     <hr>
+    <h4><u>Brownian motion of a particle suspended in gas</u></h4>
+    <div class="sp-embed-player" data-id="cTQXhCnoaP3"><script src="https://go.screenpal.com/player/appearance/cTQXhCnoaP3"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQXhCnoaP3?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
+    <hr>
     <h4><u>Bluff body flow of an ideal gas</u></h4>
     <div class="sp-embed-player" data-id="cTQnITnoiwp"><script src="https://go.screenpal.com/player/appearance/cTQnITnoiwp"></script><iframe width="100%" height="100%" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cTQnITnoiwp?width=100%&height=100%&ff=1&title=0" allowfullscreen="true"></iframe></div>
 </div>
