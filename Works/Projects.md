@@ -29,7 +29,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Aerocase</h3>
                 </header>
-                <p><em>Individual Course Project <br> <b>ME 203 : Design and Manufacturing</b></em></p>
+                <p><em>Individual Course Project | 2025 <br> <b>ME 203 : Design and Manufacturing</b></em></p>
                 <ul>
                     <li>Designed and fabricated a compact, innovative, and functional instrument case that ensures the safe storage of Aerodrum instruments while reflecting the aesthetic essence of music.</li>
                     <li>Made using Al 5052 aluminum sheet, A356 cast aluminum, common pine lumber, Duron hardboard and polyurethane foam. Major processes include sheet metal bending, TIG welding, sand casting, wood working, laser cutting and 3D printing</li>
@@ -49,7 +49,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Efficient Battery Thermal Management Systems for EV</h3>
                 </header>
-                <p><em>Final year B. Tech. thesis project <br> <b>Advisor:</b> Dr. B. R. Pattabhi</em></p>
+                <p><em>Final year B. Tech. thesis project | 2021-22<br> <b>Advisor:</b> Dr. B. R. Pattabhi</em></p>
                 <ul>
                     <li>The project was aimed at improving the effectiveness of the battery thermal management system by reducing the cell capacity degradation caused due to temperature effects.</li>
                     <li>Link to the published paper : <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/est2.458" target="_blank">Design of lithium-ion battery packs for two-wheeled electric vehicles</a></li>
@@ -69,7 +69,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Macro-scale Design Aspects of EV Battery Pack</h3>
                 </header>
-                <p><em>Summer research internship project <br> <b>Advisors:</b> Dr. Sundararajan Natarajan and Dr. B. R. Pattabhi</em></p>
+                <p><em>Summer research internship project | 2021<br> <b>Advisors:</b> Dr. Sundararajan Natarajan and Dr. B. R. Pattabhi</em></p>
                 <ul>
                     <li>Performed preliminary battery pack design calculations by initially developing a system of equations in EXCEL and later implementing it in a MATLAB app for a better GUI experience.</li>
                     <li>MATLAB source code : <a href="https://github.com/dhruvaljavia/EV_calculator" target="_blank">GitHub Repository</a></li>
@@ -89,7 +89,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Balancing Aspects of Inline and V-engines</h3>
                 </header>
-                <p><em>Group semester project</em></p>
+                <p><em>Group semester project | 2020-21</em></p>
                 <ul>
                     <li>Performed analysis and evaluation of unbalanced force present in inline (four cylinders) and V-2 engines using ANSYS software.</li>
                     <li>See project details here : <a href="../assets/Project_files/Engine_analysis/engine_report.pdf" target="_blank">report</a></li>
@@ -107,7 +107,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Battery Voltage Level Indicator</h3>
                 </header>
-                <p><em>Basic electronics lab group project</em></p>
+                <p><em>Basic electronics lab group project | 2019-20</em></p>
                 <ul>
                     <li>Designed and implemented a circuit consisting of two op-amps (IC UA741), two LEDs, two resistors and
                     two potentiometers capable of detecting two voltage levels of any battery connected to the circuit by
@@ -139,7 +139,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Heat Exchanger Calculators</h3>
                 </header>
-                <p><em>Innovation Department - Heating - Thermax Ltd.</em></p>
+                <p><em>Innovation Department - Heating - Thermax Ltd. | 2022-24</em></p>
                 <ul>
                     <li>A variety of EXCEL-based calculators for evaluating important process parameters.</li>
                     <li>Used built-in GRG nonlinear solver and VBA for automated computations.</li>
@@ -172,7 +172,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>Gas Dynamics Simulator</h3>
                 </header>
-                <p><em>Individual personal summer project</em></p>
+                <p><em>Individual personal summer project | 2025</em></p>
                 <ul>
                     <li>Built a MATLAB-based simulator for particle dynamics and association chemical reactions in an ideal gas, implementing hash grid optimization to reduce collision detection algorithm complexity.</li>
                     <li>Developed an interactive MATLAB app with numeric and GUI-based input to improve user experience, providing time-series plots and animation as post-processing outputs for analysis.</li>
@@ -235,7 +235,7 @@ nav-menu: true
                 <header class="major" style="margin:0;">
                     <h3>VR Robot</h3>
                 </header>
-                <p><em>Personal hobby project</em></p>
+                <p><em>Personal hobby project | 2019</em></p>
                 <ul>
                     <li>Made a virtual robot in Unity3D, controlled by ultrosonic sensor interfaced with Arduino Uno and keyboard keys.</li>
                     <li>Can be further connected to an actual physical robotic arm for teleoperation.</li>
