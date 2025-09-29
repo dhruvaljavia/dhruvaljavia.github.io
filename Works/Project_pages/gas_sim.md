@@ -41,6 +41,7 @@ show_tile: false
         <li>Translate MATLAB code to GNU Octave equivalent code for open and easy access to all</li>
         <li>Add progress bar and animation video re-play features in the GUI</li>
     </ul>
+    <a href="../../assets/Project_files/Gas_sim/Gas_Sim_Notes.pdf" target="_blank">Click here to see project notes</a>
 </div>
 
 <div class="box">
