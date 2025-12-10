@@ -46,6 +46,10 @@ nav-menu: true
             <b>The Canyon</b> - a reggae-styled song from the album "Blood on Drums", by Ashton Irwin<br>
             <audio controls preload="none"><source src="../assets/Audio_files/The_Canyon.mp3" type="audio/mpeg">Error playing audio</audio>
         </blockquote>
+        <blockquote>
+            <b>In My Head</b> - an alternative rock composed by the band Queens of the Stone Age, from the good old times (NFSU2 fans would know it 😌)<br>
+            <audio controls preload="none"><source src="../assets/Audio_files/In_my_head.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
         <br>
         <ul class="actions">
             <li><a href="/dhruvaljavia.github.io/" class="button">Go back</a></li>
