@@ -50,6 +50,10 @@ nav-menu: true
             <b>In My Head</b> - an alternative rock composed by the band Queens of the Stone Age, from the good old times (NFSU2 fans would know it 😌)<br>
             <audio controls preload="none"><source src="../assets/Audio_files/In_my_head.mp3" type="audio/mpeg">Error playing audio</audio>
         </blockquote>
+        <blockquote>
+            <b>Don't Listen To The Radio</b> - another one of my long-time favorite alternative rock, from The Vines (this one is for FlatOut 2 fans 😌)<br>
+            <audio controls preload="none"><source src="../assets/Audio_files/Dont_listen_to_the_radio.mp3" type="audio/mpeg">Error playing audio</audio>
+        </blockquote>
         <br>
         <ul class="actions">
             <li><a href="/dhruvaljavia.github.io/" class="button">Go back</a></li>
