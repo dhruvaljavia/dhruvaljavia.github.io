@@ -18,7 +18,7 @@ nav-menu: true
         	<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://stellarium.org/" target="_blank">Stellarium</a></b> <br>A realistic and accurate planetarium software</blockquote></div>
 			<div class="6u 12u$(medium)"><blockquote><b><a href="https://phydemo.app/ray-optics/simulator/" target="_blank">Ray Optics Simulation</a></b> <br>Interactive and rich ray optics simulator</blockquote></div>
 			<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://www.falstad.com/mathphysics.html" target="_blank">Math & Physics Applets</a></b> <br>Treasure trove of simulators by Paul Falstad</blockquote></div>
-			<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://www.engine-sim.parts/" target="_blank">Engine Simulator</a></b> <br>Real-time IC engine simulation by AngeTheGreat</blockquote></div>
+			<div class="6u 12u$(medium)"><blockquote><b><a href="https://www.engine-sim.parts/" target="_blank">Engine Simulator</a></b> <br>Real-time IC engine simulation by AngeTheGreat</blockquote></div>
 			<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://mapoftheuniverse.net/" target="_blank">Map of The Universe</a></b> <br>A quarter-map of our observable universe to scale based on data collected by SDSS</blockquote></div>
 		</div>
 	</div>
