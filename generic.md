@@ -35,7 +35,7 @@ show_tile: false
 				<td>Stanford University</td>
 				<td>Stanford, CA, US</td>
 				<td>M.S. in Mechanical Engineering</td>
-                <td>2024 - present</td>
+                <td>2024 - 2026</td>
 			</tr>
 		</tbody>
 	</table>
