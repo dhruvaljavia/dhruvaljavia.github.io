@@ -1,7 +1,7 @@
 ---
 title: CAD Creations
 layout: landing
-description: '3D models, made using SolidWorks'
+description: '3D models, made using SolidWorks & Fusion 360'
 image: assets/CAD_models/blender_front.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>Many of the CAD files can be found here : <a href="https://grabcad.com/dhruval.javia-1" target="_blank">GrabCAD</a></p>
+		<p>Many of the CAD files can be found here : <a href="https://grabcad.com/dhruval.javia-1" target="_blank">GrabCAD profile</a></p>
 	</div>
 </section>
 
