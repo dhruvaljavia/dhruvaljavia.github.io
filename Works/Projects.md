@@ -164,6 +164,26 @@ nav-menu: true
 <!-- Six -->
 <section id="six" class="spotlights">
     <section>
+        <a href="Project_pages/FEA_from_scratch.md" class="image">
+            <img src="{% link assets/Project_files/FEA_from_scratch/cover_image.png %}" alt="" data-position="center center"/>
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major" style="margin:0;">
+                    <h3>[WIP] Numerical Analysis, Optimization and Experimental Validation of Heat Conduction in Metal Plates</h3>
+                </header>
+                <p><em>Individual personal summer project | 2026</em></p>
+                <ul>
+                    <li>Currently, building a comprehensive FEA program in MATLAB from scratch, and validating it experimentally using custom 3D-printed IR temperature sensor rig with laser-cut aluminum plate</li>
+                    <li>MATLAB source code : <a href="https://github.com/dhruvaljavia/Heat-Transfer-FEA" target="_blank">GitHub Repository</a></li>
+                </ul>
+                <ul class="actions">
+                    <li><a href="Project_pages/FEA_from_scratch.html" class="button">See more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="Project_pages/gas_sim.html" class="image">
             <img src="{% link assets/Project_files/Gas_sim/two_gas_mix.png %}" alt="" data-position="center center" />
         </a>
