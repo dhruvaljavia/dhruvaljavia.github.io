@@ -164,7 +164,7 @@ nav-menu: true
 <!-- Six -->
 <section id="six" class="spotlights">
     <section>
-        <a href="Project_pages/FEA_from_scratch.md" class="image">
+        <a href="Project_pages/FEA_from_scratch.html" class="image">
             <img src="{% link assets/Project_files/FEA_from_scratch/cover_image.png %}" alt="" data-position="center center"/>
         </a>
         <div class="content">
