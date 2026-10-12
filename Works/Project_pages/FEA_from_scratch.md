@@ -49,13 +49,15 @@ show_tile: false
 </div>
 
 <div class="box">
-    <h3>Simulation Animation and Test Rig Setup</h3>
+    <h3>Simulation Animation, Test Rig Setup & DAQ program</h3>
     <h4>Cooling of a metal plate immersed partially in a cold bath</h4>
     <div class="sp-embed-player" data-id="cO6i10nxdP3" data-aspect-ratio="1.865854" data-padding-top="53.594771%" style="position:relative;width:100%;padding-top:53.594771%;height:0;"><script src="https://go.screenpal.com/consumption/player_appearance/cO6i10nxdP3/1.865854"></script><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"  scrolling="no" src="https://go.screenpal.com/player/cO6i10nxdP3?ff=1&ahc=1&dcc=1&tl=1&bg=transparent&share=1&download=1&embed=1&cl=1" allow="fullscreen *;" allowfullscreen></iframe></div>
     <br>
-    <h4>Test Rig</h4>
-    <div class="row 100% uniform">
-        <div class="6u"><span class="image fit"><img src="{% link assets/Project_files/FEA_from_scratch/test_rig.jpg %}" alt="" /></span></div>
+    <br>
+    <h4>Test Rig (left) and a preliminary temperature data acquisition VI interface built using LabVIEW (right)</h4>
+    <div class="row uniform">
+        <div class="5u"><span class="image fit"><img src="{% link assets/Project_files/FEA_from_scratch/test_rig.jpg %}" alt="" /></span></div>
+        <div class="7u"><span class="image fit"><img src="{% link assets/Project_files/FEA_from_scratch/VI_DAQ.png %}" alt="" /></span></div>
     </div>
 </div>
 <br>
