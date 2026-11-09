@@ -22,6 +22,7 @@ nav-menu: true
 			<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://mapoftheuniverse.net/" target="_blank">Map of The Universe</a></b> <br>A quarter-map of our observable universe to scale based on data collected by SDSS</blockquote></div>
 			<div class="6u 12u$(medium)"><blockquote><b><a href="https://science.nasa.gov/eyes/" target="_blank">NASA Eyes</a></b> <br>Real-time data of Earth, Solar System, Asteroids & Exoplanets</blockquote></div>
 			<div class="6u$ 12u$(medium)"><blockquote><b><a href="https://celestiaproject.space/" target="_blank">Celestia</a></b> <br>Open source 3D visualization of space in real-time</blockquote></div>
+			<div class="6u 12u$(medium)"><blockquote><b><a href="https://507movements.com/" target="_blank">507 Mechanical Movements</a></b> <br>The ultimate encyclopedia of mechanisms</blockquote></div>
 		</div>
 	</div>
 </section>
